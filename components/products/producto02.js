@@ -48,7 +48,7 @@ function Producto02() {
         <Producto>
 
             <h3>Smart Watch bracelet</h3>
-            <Image src="/products/smartWatch-Bracelet-001.webp" alt="Producto" width={300} height={300} />
+            <Image src="/products/smartWatch-Bracelet-001.png" alt="Producto" width={300} height={300} />
             {/* <Description>Reloj inteligente</Description> */}
             <h4>Precios:</h4>
             <Precios>1 Unid. = S/. 20.00</Precios>
