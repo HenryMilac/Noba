@@ -48,7 +48,7 @@ function Producto04() {
         <Producto>
 
             <h3>Soporte para celular</h3>
-            <Image src="/products/soporteCelular-Pequeño-001.png" alt="Producto" width={250} height={300} />
+            <Image src="/products/soporteCelular-Pequeno-001.png" alt="Producto" width={250} height={300} />
             {/* <Description>Soporte para el celular</Description> */}
             <h4>Precios:</h4>
             <Precios>1 Unid. = S/. 10.00</Precios>

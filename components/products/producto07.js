@@ -48,7 +48,7 @@ function Producto07() {
         <Producto>
 
             <h3>Scooter con luces</h3>
-            <Image src="/products/scooter-pequeño-001.jpeg" alt="Producto" width={250} height={300} />
+            <Image src="/products/scooter-pequeno-001.jpeg" alt="Producto" width={250} height={300} />
             {/* <Description>Soporte para el celular</Description> */}
             <h4>Precios:</h4>
             <Precios>1 Unid. = S/. 45.00</Precios>
